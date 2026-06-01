@@ -95,6 +95,6 @@ npm run dev
 ## Submission Links
 
 - **GitHub Repository:** https://github.com/Sachin7568/Inventory-Order-Management-System
-- **Docker Hub Image:** [Insert Link]
-- **Live Frontend:** [Insert Link]
-- **Live Backend:** [Insert Link]
+- **Docker Hub Image:** https://hub.docker.com/r/sachin10094/inventory-backend
+- **Live Frontend:** https://inventory-order-management-system-rho.vercel.app/
+- **Live Backend:** https://inventory-backend-478w.onrender.com
