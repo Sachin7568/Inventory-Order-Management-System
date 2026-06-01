@@ -94,7 +94,7 @@ npm run dev
 
 ## Submission Links
 
-- **GitHub Repository:** [Insert Link]
+- **GitHub Repository:** https://github.com/Sachin7568/Inventory-Order-Management-System
 - **Docker Hub Image:** [Insert Link]
 - **Live Frontend:** [Insert Link]
 - **Live Backend:** [Insert Link]
